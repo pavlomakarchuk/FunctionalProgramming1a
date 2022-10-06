@@ -1,0 +1,15 @@
+D:\VSRepos\pavlomakarchuk\FunctionalProgramming1a\FuncLab1\FuncLab1\bin\Debug\net6.0\FuncLab1.exe
+D:\VSRepos\pavlomakarchuk\FunctionalProgramming1a\FuncLab1\FuncLab1\bin\Debug\net6.0\FuncLab1.deps.json
+D:\VSRepos\pavlomakarchuk\FunctionalProgramming1a\FuncLab1\FuncLab1\bin\Debug\net6.0\FuncLab1.runtimeconfig.json
+D:\VSRepos\pavlomakarchuk\FunctionalProgramming1a\FuncLab1\FuncLab1\bin\Debug\net6.0\FuncLab1.dll
+D:\VSRepos\pavlomakarchuk\FunctionalProgramming1a\FuncLab1\FuncLab1\bin\Debug\net6.0\FuncLab1.pdb
+D:\VSRepos\pavlomakarchuk\FunctionalProgramming1a\FuncLab1\FuncLab1\obj\Debug\net6.0\FuncLab1.csproj.AssemblyReference.cache
+D:\VSRepos\pavlomakarchuk\FunctionalProgramming1a\FuncLab1\FuncLab1\obj\Debug\net6.0\FuncLab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSRepos\pavlomakarchuk\FunctionalProgramming1a\FuncLab1\FuncLab1\obj\Debug\net6.0\FuncLab1.AssemblyInfoInputs.cache
+D:\VSRepos\pavlomakarchuk\FunctionalProgramming1a\FuncLab1\FuncLab1\obj\Debug\net6.0\FuncLab1.AssemblyInfo.cs
+D:\VSRepos\pavlomakarchuk\FunctionalProgramming1a\FuncLab1\FuncLab1\obj\Debug\net6.0\FuncLab1.csproj.CoreCompileInputs.cache
+D:\VSRepos\pavlomakarchuk\FunctionalProgramming1a\FuncLab1\FuncLab1\obj\Debug\net6.0\FuncLab1.dll
+D:\VSRepos\pavlomakarchuk\FunctionalProgramming1a\FuncLab1\FuncLab1\obj\Debug\net6.0\refint\FuncLab1.dll
+D:\VSRepos\pavlomakarchuk\FunctionalProgramming1a\FuncLab1\FuncLab1\obj\Debug\net6.0\FuncLab1.pdb
+D:\VSRepos\pavlomakarchuk\FunctionalProgramming1a\FuncLab1\FuncLab1\obj\Debug\net6.0\FuncLab1.genruntimeconfig.cache
+D:\VSRepos\pavlomakarchuk\FunctionalProgramming1a\FuncLab1\FuncLab1\obj\Debug\net6.0\ref\FuncLab1.dll
